@@ -91,16 +91,16 @@ text-decoration:none;
 
 .haut{
     padding-top: 1px;
-    background-color: #555;
+    
 }
 
 
 .milieu{
-    background-color: aqua;
+    
 }
 
 .bas{
-    background-color: blue;
+    
     /*margin-bottom: 100px;*/
     height: 100vh;
 }
